@@ -1,0 +1,1733 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zeeBizzCard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-03 16:27+0100\n"
+"PO-Revision-Date: 2013-03-03 16:27+0100\n"
+"Last-Translator: themezee.com <contact@themezee.com>\n"
+"Language-Team: themezee.com\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: 404.php:9
+msgid "404 Error: Not found"
+msgstr "404 Fehler: Seite nicht gefunden"
+
+#: 404.php:12
+msgid ""
+"The page you trying to reach does not exist, or has been moved. Please use "
+"the menus or the search box to find what you are looking for"
+msgstr ""
+"Diese Seite existiert nicht oder nicht mehr. Bitte verwende die Navigation "
+"oder die Suchbox, um die richtige Seite zu finden."
+
+#: 404.php:17 template-sitemap.php:28
+msgid "Latest Posts"
+msgstr "Letzte Artikel"
+
+#: 404.php:28 template-sitemap.php:39
+msgid "Pages"
+msgstr "Seiten"
+
+#: archive.php:5 archive.php:6 author.php:8
+msgid "Archive for"
+msgstr "Archiv für"
+
+#: archive.php:7
+msgid "Author Archive"
+msgstr "Archiv des Autors"
+
+#: archive.php:8
+msgid "Tag Archive for"
+msgstr "Tag Archiv für"
+
+#: archive.php:9 template-sitemap.php:49
+msgid "Archives"
+msgstr "Archive"
+
+#: archive.php:23 author.php:42 index.php:24 portfolio-three-column.php:62
+#: portfolio-two-column.php:67 search.php:19
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ältere Beiträge"
+
+#: archive.php:23 author.php:42 index.php:24 portfolio-three-column.php:62
+#: portfolio-two-column.php:67 search.php:19
+msgid "Recent Entries &raquo;"
+msgstr "Neuere Beiträge &raquo;"
+
+#: author.php:16
+msgid "About the Author:"
+msgstr "Über den Autor:"
+
+#: author.php:21
+msgid "Author Website: "
+msgstr "Autor Websseite:"
+
+#: comments.php:4
+msgid "Enter password to view comments."
+msgstr "Passwort erforderlich, um Kommentare zu sehen."
+
+#: comments.php:12 functions.php:189 image.php:14
+msgid "No comments"
+msgstr "Keine Kommentare"
+
+#: comments.php:12 functions.php:189 image.php:14
+msgid "One comment"
+msgstr "Ein Kommentar"
+
+#: comments.php:12 functions.php:189 image.php:14
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: functions.php:68
+msgid "Navigation"
+msgstr "Navigation"
+
+#: functions.php:89
+msgid "Sidebar Blog"
+msgstr "Sidebar Blog"
+
+#: functions.php:90
+msgid "Sidebar Pages"
+msgstr "Sidebar für Seiten"
+
+#: functions.php:151
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: functions.php:165
+msgid "BizzCard Theme by ThemeZee"
+msgstr "BizzCard Theme von ThemeZee"
+
+#: functions.php:191 page.php:10 portfolio-three-column.php:15
+#: portfolio-two-column.php:15 template-networks.php:15
+#: template-sitemap.php:15 template-slider.php:22
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: functions.php:200
+msgid "Tags: "
+msgstr "Tags:"
+
+#: functions.php:215
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: image.php:36
+msgid "Previous"
+msgstr "Vorheriges"
+
+#: image.php:37
+msgid "Next"
+msgstr "Nächstes"
+
+#: image.php:38
+msgid "Return to Gallery"
+msgstr "Zurück zur Galerie"
+
+#: image.php:38
+msgid "Return to"
+msgstr "Zurück zu"
+
+#: loop.php:10 portfolio-two-column.php:52 single-portfolio.php:13
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: search.php:6 search.php:26
+msgid "Search results for "
+msgstr "Suchergebnisse für"
+
+#: search.php:31
+msgid ""
+"No matches. Please try again, or use the navigation menus to find what you "
+"search for."
+msgstr ""
+"Diese Seite existiert nicht oder nicht mehr. Bitte verwende die Navigation "
+"oder die Suchbox, um die richtige Seite zu finden."
+
+#: template-sitemap.php:44
+msgid "Categories"
+msgstr "Kategorien"
+
+#: template-sitemap.php:54
+msgid "Posts by Category"
+msgstr "Artikel per Kategorie"
+
+#: template-sitemap.php:57
+msgid "Category"
+msgstr "Kategorie"
+
+#: includes/admin/theme-admin.php:5 includes/admin/theme-admin.php:27
+msgid "Theme Options"
+msgstr "Theme Einstellungen"
+
+#: includes/admin/theme-admin.php:30
+msgid "Theme settings updated successfully."
+msgstr "Theme Einstellungen erfolgreich gespeichert."
+
+#: includes/admin/theme-admin.php:53
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: includes/admin/theme-admin.php:71
+msgid "Theme Data"
+msgstr "Theme Details"
+
+#: includes/admin/theme-admin.php:73
+#: includes/admin/options/options-about.php:21
+#: includes/plugins/theme-plugin-about.php:12
+msgid "Name"
+msgstr "Name"
+
+#: includes/admin/theme-admin.php:74
+msgid "Version"
+msgstr "Version"
+
+#: includes/admin/theme-admin.php:75
+msgid "(Changelog)"
+msgstr "(Changelog)"
+
+#: includes/admin/theme-admin.php:76
+msgid "Author"
+msgstr "Autor"
+
+#: includes/admin/theme-admin.php:81
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: includes/admin/theme-admin.php:84
+msgid "Check out the PRO Version"
+msgstr "Wirf einen Blick auf die PRO Version"
+
+#: includes/admin/theme-admin.php:85
+msgid "Join the Theme Club and get Support"
+msgstr "Trete dem Theme Club bei und bekomme Support"
+
+#: includes/admin/theme-admin.php:90
+msgid "About ThemeZee"
+msgstr "Über ThemeZee"
+
+#: includes/admin/theme-admin.php:92
+msgid "ThemeZee provides several stunning <b>Freemium WordPress Themes</b>."
+msgstr ""
+"ThemeZee ist ein Anbieter von vielen umwerfend tollen <b>Freemium WordPress "
+"Themes</b>."
+
+#: includes/admin/theme-admin.php:93
+msgid ""
+"That means you can download and use every theme <b>for FREE</b>, and only "
+"pay to get more features, better theme tutorials and advanced theme support!"
+msgstr ""
+"Das bedeutet du kannst jedes Theme kostenlos downloaden und verwenden, und "
+"zahlst nur falls du mehr Features, bessere Anleitungen und erstklassigen "
+"Theme Support benötigst."
+
+#: includes/admin/theme-admin.php:94
+msgid "Visit ThemeZee.com now"
+msgstr "Besuche ThemeZee.com"
+
+#: includes/admin/theme-admin.php:98
+msgid "Subscribe Now"
+msgstr "News Abonnemont"
+
+#: includes/admin/theme-admin.php:100
+msgid ""
+"Subscribe now and get informed about each <b>Theme Release</b> from ThemeZee."
+msgstr "Folge ThemeZee und werde informiert über jedes neue Theme Release."
+
+#: includes/admin/theme-admin.php:102
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: includes/admin/theme-admin.php:103
+msgid "Email Subscription"
+msgstr "Email Abonnemont"
+
+#: includes/admin/theme-admin.php:104
+msgid "Follow me on Twitter"
+msgstr "Folge mir auf Twitter"
+
+#: includes/admin/theme-admin.php:105
+msgid "Become a Facebok Fan"
+msgstr "Werde Facebook Fan"
+
+#: includes/admin/theme-admin.php:120
+msgid "Thank you for installing this theme!"
+msgstr "Vielen Dank für die Installation dieses Themes!"
+
+#: includes/admin/theme-admin.php:122
+msgid "Welcome to"
+msgstr "Willkommen bei "
+
+#: includes/admin/theme-admin.php:124
+msgid ""
+"First of all, the number of options might alarm you, <b>but don't panic</b>. "
+"Everything is organized and documented well enough for you."
+msgstr ""
+"Zuerst werden dich die Anzahl der Optionen vielleicht alarmieren, <b>aber "
+"keine Panik.</b> Alles ist sehr gut organisiert und beschrieben für dich."
+
+#: includes/admin/theme-admin.php:129
+msgid "Want more features?"
+msgstr "Du willst mehr Funktionen?"
+
+#: includes/admin/theme-admin.php:131
+msgid "Check out"
+msgstr "Probiere"
+
+#: includes/admin/theme-admin.php:132
+msgid ""
+"The <b>PRO Version</b> provide additional custom widgets and an author box."
+msgstr ""
+"Die <b>PRO Version</b> bietet dir zusätzliche eigene Widgets und eine "
+"Autoren Box. "
+
+#: includes/admin/theme-admin.php:140
+msgid "Learn more about the PRO Version"
+msgstr "Lerne mehr über die PRO Version"
+
+#: includes/admin/theme-admin.php:145
+msgid "Need support?"
+msgstr "Du brauchst Hilfe?"
+
+#: includes/admin/theme-admin.php:147
+msgid "Join the Theme Club"
+msgstr "Trete dem Theme Club bei"
+
+#: includes/admin/theme-admin.php:148
+msgid ""
+"You want <b>top-notch Support</b> for installing and configuring your Theme? "
+"Become a <b>Member</b>!"
+msgstr ""
+"Du willst <b>erstklassigen Support</b> zum konfigurieren und anpassen deines "
+"Themes? Dann werde <b>Mitglied</b>!"
+
+#: includes/admin/theme-admin.php:156
+msgid "Learn more about the Theme Club"
+msgstr "Lerne mehr über den Theme Club"
+
+#: includes/admin/theme-admin.php:163
+msgid "Not happy with"
+msgstr "Nicht glücklich mit"
+
+#: includes/admin/theme-admin.php:165
+msgid "ThemeZee.com provide several other <b>free WordPress Themes</b>."
+msgstr ""
+"ThemeZee.com bietet dir noch einige andere <b>kostenlose WordPress Themes</"
+"b>."
+
+#: includes/admin/theme-admin.php:166
+msgid "Click here to browse through all of my themes."
+msgstr "Klicke hier zum Durchstöbern meiner anderen Themes"
+
+#: includes/admin/theme-admin.php:274
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: includes/admin/theme-functions.php:9
+msgid "Welcome"
+msgstr "Willkommen"
+
+#: includes/admin/theme-functions.php:10
+msgid "General"
+msgstr "Allgemein"
+
+#: includes/admin/theme-functions.php:11
+msgid "Colors"
+msgstr "Farben"
+
+#: includes/admin/theme-functions.php:12
+msgid "Fonts"
+msgstr "Schrift"
+
+#: includes/admin/theme-functions.php:13
+msgid "About Me"
+msgstr "Über mich"
+
+#: includes/admin/theme-functions.php:14
+msgid "Post Slider"
+msgstr "Artikel Slider"
+
+#: includes/admin/theme-functions.php:15
+msgid "Social Media"
+msgstr "Social Media"
+
+#: includes/admin/theme-functions.php:158
+msgid "Use this Image"
+msgstr "Verwende dieses Bild"
+
+#: includes/admin/options/options-about.php:7
+msgid "Your Personal Details"
+msgstr "Persönliche Details"
+
+#: includes/admin/options/options-about.php:10
+msgid "Contact Information"
+msgstr "Kontaktinformationen"
+
+#: includes/admin/options/options-about.php:22
+msgid "Paste your name here."
+msgstr "Trage hier deinen Namen ein."
+
+#: includes/admin/options/options-about.php:28
+#: includes/plugins/theme-plugin-about.php:21
+msgid "Date of Birth"
+msgstr "Geburtsdatum"
+
+#: includes/admin/options/options-about.php:29
+msgid "Paste your date of birth here."
+msgstr "Trage hier dein Geburtsdatum ein."
+
+#: includes/admin/options/options-about.php:35
+#: includes/plugins/theme-plugin-about.php:30
+msgid "Nationality"
+msgstr "Nationalität"
+
+#: includes/admin/options/options-about.php:36
+msgid "Paste your nationality here."
+msgstr "Trage hier deine Nationalität ein."
+
+#: includes/admin/options/options-about.php:42
+#: includes/plugins/theme-plugin-about.php:39
+msgid "Address"
+msgstr "Adresse"
+
+#: includes/admin/options/options-about.php:43
+msgid "Paste your address here."
+msgstr "Trage hier deine Adresse ein."
+
+#: includes/admin/options/options-about.php:49
+#: includes/plugins/theme-plugin-about.php:48
+msgid "Home Town"
+msgstr "Heimatstadt / Wohnort"
+
+#: includes/admin/options/options-about.php:50
+msgid "Paste your home town here."
+msgstr "Trage hier deinen Wohnort ein."
+
+#: includes/admin/options/options-about.php:59
+#: includes/plugins/theme-plugin-about.php:57
+msgid "Website"
+msgstr "Webseite"
+
+#: includes/admin/options/options-about.php:60
+msgid "Paste your website here."
+msgstr "Hier kannst du deine Webseite eintragen."
+
+#: includes/admin/options/options-about.php:66
+#: includes/plugins/theme-plugin-about.php:66
+msgid "Email"
+msgstr "Email Adresse"
+
+#: includes/admin/options/options-about.php:67
+msgid "Paste your email address here."
+msgstr "Trage hier deine Email Adresse ein."
+
+#: includes/admin/options/options-about.php:73
+#: includes/plugins/theme-plugin-about.php:75
+msgid "Telephone"
+msgstr "Telefonnummer"
+
+#: includes/admin/options/options-about.php:74
+msgid "Paste your telephone number here."
+msgstr "Hier kannst du deine Telefonnummer eintragen."
+
+#: includes/admin/options/options-about.php:80
+#: includes/plugins/theme-plugin-about.php:84
+msgid "vCard"
+msgstr "vCard"
+
+#: includes/admin/options/options-about.php:81
+msgid "Paste your download url for your vCard here."
+msgstr "Trage hier die URL zu deiner vCard Datei ein."
+
+#: includes/admin/options/options-colors.php:7
+msgid "Predefined Color Schemes"
+msgstr "Vordefinierte Farbschemata"
+
+#: includes/admin/options/options-colors.php:10
+msgid "Custom Colors"
+msgstr "Eigene Farben"
+
+#: includes/admin/options/options-colors.php:13
+msgid "Font Colors"
+msgstr "Farben der Schrift"
+
+#: includes/admin/options/options-colors.php:16
+msgid "Background Colors"
+msgstr "Hintergrundfarben"
+
+#: includes/admin/options/options-colors.php:24
+msgid "Blue"
+msgstr "Blau"
+
+#: includes/admin/options/options-colors.php:25
+msgid "Green"
+msgstr "Grün"
+
+#: includes/admin/options/options-colors.php:26
+msgid "Orange"
+msgstr "Orange"
+
+#: includes/admin/options/options-colors.php:27
+msgid "Purple"
+msgstr "Lila"
+
+#: includes/admin/options/options-colors.php:28
+msgid "Red"
+msgstr "Rot"
+
+#: includes/admin/options/options-colors.php:29
+msgid "Teal"
+msgstr "Blaugrün"
+
+#: includes/admin/options/options-colors.php:30
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/admin/options/options-colors.php:38
+msgid "Please select your color scheme here."
+msgstr "Bitte wähle hier dein bevorzugtes Farbschema."
+
+#: includes/admin/options/options-colors.php:46
+msgid "Active Custom Colors?"
+msgstr "Benutzerdefinierte Farben aktivieren?"
+
+#: includes/admin/options/options-colors.php:47
+msgid "Check this to activate the Custom Color Function."
+msgstr "Haken setzen, um benutzerdefinierte Farben zu aktivieren."
+
+#: includes/admin/options/options-colors.php:55
+msgid "Link Color"
+msgstr "Linkfarbe"
+
+#: includes/admin/options/options-colors.php:56
+msgid "Select the color of links here."
+msgstr "Wähle die Farbe von Hyperlinks."
+
+#: includes/admin/options/options-colors.php:62
+msgid "Post Title Color"
+msgstr "Farben von Überschriften"
+
+#: includes/admin/options/options-colors.php:63
+msgid "Select the color of post titles here."
+msgstr "Wähle die Farbe von Überschriften hier."
+
+#: includes/admin/options/options-colors.php:71
+msgid "Logo Background Color"
+msgstr "Hintergrundfarbe des Logos"
+
+#: includes/admin/options/options-colors.php:72
+msgid "Select the background color of logo here."
+msgstr "Wähle die Hintergrundfarbe des Logos hier aus."
+
+#: includes/admin/options/options-colors.php:78
+msgid "Navigation Background Color"
+msgstr "Hintergrundfarbe der Navigation"
+
+#: includes/admin/options/options-colors.php:79
+msgid "Select the background color of navigation here."
+msgstr "Wähle die Hintergrundfarbe der Navigation hier aus."
+
+#: includes/admin/options/options-colors.php:85
+msgid "Sidebar Background Color"
+msgstr "Hintergrundfarbe von Widgets"
+
+#: includes/admin/options/options-colors.php:86
+msgid "Select the background color of sidebar title here."
+msgstr "Wähle hier die Hintergrundfarbe von Widget Titlen aus."
+
+#: includes/admin/options/options-fonts.php:7
+msgid "Activate Custom Fonts"
+msgstr "Aktiviere benutzerdefinierte Farben"
+
+#: includes/admin/options/options-fonts.php:10
+msgid "Font Families"
+msgstr "Schriftarten"
+
+#: includes/admin/options/options-fonts.php:13
+msgid "Font Sizes"
+msgstr "Schriftgrößen"
+
+#: includes/admin/options/options-fonts.php:26
+msgid "Active Custom Fonts?"
+msgstr "Aktiviere benutzerdefinierte Schriftarten"
+
+#: includes/admin/options/options-fonts.php:27
+msgid "Check this to activate Custom Fonts."
+msgstr "Haken setzen, um benutzerdefinierte Schriften zu aktivieren."
+
+#: includes/admin/options/options-fonts.php:33
+msgid "Install more Fonts"
+msgstr "Installiere mehr Schriften"
+
+#: includes/admin/options/options-fonts.php:34
+msgid ""
+"You want more fonts? You can install further fonts from the <a target="
+"\"_blank\" href=\"http://www.google.com/webfonts/\">Google Font API</a> "
+"here. \n"
+"\t\t\t\t\t\t\t\t\tJust insert a list of fonts separated by Semicolon, i.e  "
+"Arial; Galindo; Cantora One; ..."
+msgstr ""
+"Du willst mehr Schriftarten? Hier kannst du weitere Schriften von der  <a "
+"target=\"_blank\" href=\"http://www.google.com/webfonts/\">Google Font API</"
+"a> installieren. \n"
+" t\t\t\t\t Trage dazu eine Liste von Schriftarten hier ein, getrennt mit "
+"Strichpunkt. z.B. Arial; Galindo; Cantora One; ..."
+
+#: includes/admin/options/options-fonts.php:41
+msgid "Text Font"
+msgstr "Schriftart des Texts"
+
+#: includes/admin/options/options-fonts.php:42
+msgid "Select the font family of text here."
+msgstr "Wähle die Schriftart von normalen Text hier."
+
+#: includes/admin/options/options-fonts.php:49
+msgid "Navigation Font"
+msgstr "Schriftart der Navigation"
+
+#: includes/admin/options/options-fonts.php:50
+msgid "Select the navigation font here."
+msgstr "Wähle die Schriftart der Navigation hier."
+
+#: includes/admin/options/options-fonts.php:57
+msgid "Title Font"
+msgstr "Schriftart von Überschriften"
+
+#: includes/admin/options/options-fonts.php:58
+msgid "Select the title font here."
+msgstr "Wähle die Schriftart von Überschriften hier."
+
+#: includes/admin/options/options-fonts.php:67
+msgid "Size of Text"
+msgstr "Schriftgröße des Texts"
+
+#: includes/admin/options/options-fonts.php:68
+msgid "Choose the font size of text in points (default: 10pt)."
+msgstr "Wähle die Schriftgröße des Texts in pt. (standard: 10pt)"
+
+#: includes/admin/options/options-fonts.php:74
+msgid "Size of Navigation"
+msgstr "Schriftgröße der Navigation"
+
+#: includes/admin/options/options-fonts.php:75
+msgid "Choose the font size of navigation in points (default: 9pt)."
+msgstr "Wähle die Schriftgröße der Navigation in pt. (standard: 9pt)."
+
+#: includes/admin/options/options-fonts.php:81
+msgid "Size of Page Title"
+msgstr "Schriftgröße von Seiten Titeln"
+
+#: includes/admin/options/options-fonts.php:82
+msgid "Choose the font size of page titles in points (default: 26pt)"
+msgstr "Wähle die Schriftgröße von Seiten Titeln in pt. (standard: 26pt)"
+
+#: includes/admin/options/options-fonts.php:88
+msgid "Size of Post Title"
+msgstr "Schriftgröße von Artikel Titeln"
+
+#: includes/admin/options/options-fonts.php:89
+msgid "Choose the font size of post tiles in points (default: 22pt)"
+msgstr "Wähle die Schriftgröße von Artikeln Titeln in pt (standard: 22pt)"
+
+#: includes/admin/options/options-general.php:7
+msgid "Layout Settings"
+msgstr "Layout Einstellungen"
+
+#: includes/admin/options/options-general.php:19
+msgid "Paste the full Image URL of your logo."
+msgstr "Trage hier die volle Bild URL zu deinem Logo ein."
+
+#: includes/admin/options/options-general.php:25
+msgid "Sidebar Options"
+msgstr "Sidebar Optionen"
+
+#: includes/admin/options/options-general.php:31
+msgid "Left Sidebar"
+msgstr "Sidebar links"
+
+#: includes/admin/options/options-general.php:32
+msgid "Right Sidebar"
+msgstr "Sidebar rechts"
+
+#: includes/admin/options/options-general.php:36
+msgid "Rounded Corners"
+msgstr "Runde Ecken"
+
+#: includes/admin/options/options-general.php:42
+msgid "Yes, use rounded corners."
+msgstr "Ja, verwende runde Ecken."
+
+#: includes/admin/options/options-general.php:43
+msgid "No, squared design please"
+msgstr "Nein, eckiges Design bitte."
+
+#: includes/admin/options/options-general.php:47
+msgid "Footer Content"
+msgstr "Footer Inhalt"
+
+#: includes/admin/options/options-general.php:48
+msgid "Enter here the content which is displayed in the footer."
+msgstr "Hier Inhalt eingeben, der im Footer angezeigt wird."
+
+#: includes/admin/options/options-general.php:54
+msgid "Custom CSS"
+msgstr "Eigenes CSS"
+
+#: includes/admin/options/options-general.php:55
+msgid "Place your Custom CSS code here."
+msgstr "Hier kannst du eigenen CSS Code eingeben."
+
+#: includes/admin/options/options-slider.php:7
+msgid "Featured Posts Slider"
+msgstr "Featured Artikel Slider"
+
+#: includes/admin/options/options-slider.php:25
+msgid "Show Post Slider?"
+msgstr "Artikel Slider anzeigen?"
+
+#: includes/admin/options/options-slider.php:26
+msgid "Check this if you want to show the Featured Post Slider."
+msgstr "Haken setzen wenn der Featured Artikel Slider angezeigt werden soll."
+
+#: includes/admin/options/options-slider.php:32
+msgid "Slider Title"
+msgstr "Slider Titel"
+
+#: includes/admin/options/options-slider.php:33
+msgid "Enter here your headline which is displayed above the featured posts."
+msgstr "Hier Überschrift für den Artikel Slider eintragen."
+
+#: includes/admin/options/options-slider.php:51
+msgid " Slider Content"
+msgstr "Slider Inhalt"
+
+#: includes/admin/options/options-slider.php:57
+msgid "Show recent posts"
+msgstr "Letzte Artikel anzeigen"
+
+#: includes/admin/options/options-slider.php:58
+msgid "Show popular posts"
+msgstr "Populäre Artikel anzeigen"
+
+#: includes/admin/options/options-slider.php:61
+msgid "Slider Category"
+msgstr "Slider Kategorie"
+
+#: includes/admin/options/options-slider.php:62
+msgid ""
+"Select a category which posts are displayed at the featured posts slider ."
+msgstr ""
+"Wähle eine Kategorie, dessen Artikel im Featured Artikel Slider angezeigt "
+"werden sollen."
+
+#: includes/admin/options/options-slider.php:69
+msgid "Number of Posts"
+msgstr "Anzahl der Artikel"
+
+#: includes/admin/options/options-slider.php:70
+msgid "Enter the number how much posts should be displayed in the post slider."
+msgstr ""
+"Hier Anzahl der Artikel eintragen, die im Slider angezeigt werden sollen."
+
+#: includes/admin/options/options-social.php:7
+msgid "Social Media Icons"
+msgstr "SocialMedia Icons"
+
+#: includes/admin/options/options-social.php:20
+msgid "Enter the URL to your Twitter Profile here."
+msgstr "Hier URL zum Twitter Account eintragen."
+
+#: includes/admin/options/options-social.php:27
+msgid "Enter the URL to your Facebook Profile here."
+msgstr "Hier URL zum Facebook Profil eintragen."
+
+#: includes/admin/options/options-social.php:34
+msgid "Enter the URL to your Google+ profile."
+msgstr "Hier URL zum Google+ Profil eintragen."
+
+#: includes/admin/options/options-social.php:41
+msgid "Enter the URL to your Pinterest profile."
+msgstr "Hier URL zum Pinterest Account eintragen."
+
+#: includes/admin/options/options-social.php:48
+msgid "Enter the URL to your Instagram profile."
+msgstr "Hier URL zum Instagram Profil eintragen."
+
+#: includes/admin/options/options-social.php:55
+msgid "Enter the URL to your LinkedIn Profile here."
+msgstr "Hier URL zum LinkedIn Profil eintragen."
+
+#: includes/admin/options/options-social.php:62
+msgid "Enter the URL to your Xing Profile here."
+msgstr "Hier URL zum Xing Profil eintragen."
+
+#: includes/admin/options/options-social.php:69
+msgid "Enter the URL to your MySpace Profile here."
+msgstr "Hier URL zum MySpace Profil eintragen."
+
+#: includes/admin/options/options-social.php:76
+msgid "Enter the URL to your Blogger Profile here."
+msgstr "Hier URL zum Blogger Profil eintragen."
+
+#: includes/admin/options/options-social.php:83
+msgid "Enter the URL to your Tumblr Blog here."
+msgstr "Hier URL zum Tumblr Blog eintragen."
+
+#: includes/admin/options/options-social.php:90
+msgid "Enter the URL to your Typepad Blog here."
+msgstr "Hier URL zum Typepad Blog eintragen."
+
+#: includes/admin/options/options-social.php:97
+msgid "Enter the URL to your Wordpress.com Blog here."
+msgstr "Hier URL zum Wordpress Blog eintragen."
+
+#: includes/admin/options/options-social.php:104
+msgid "Enter the URL to your Flickr Profile here."
+msgstr "Hier URL zum Twitter Profil eintragen."
+
+#: includes/admin/options/options-social.php:111
+msgid "Enter the URL to your Soundcloud Profile here."
+msgstr "Hier URL zum Soundcloud Profil eintragen."
+
+#: includes/admin/options/options-social.php:118
+msgid "Enter the URL to your Spotify Profile here."
+msgstr "Hier URL zum Spotify Profil eintragen."
+
+#: includes/admin/options/options-social.php:125
+msgid "Enter the URL to your Last.fm Profile here."
+msgstr "Hier URL zum Last.fm Profil eintragen."
+
+#: includes/admin/options/options-social.php:132
+msgid "Enter the URL to your Youtube Profile here."
+msgstr "Hier URL zum Youtube Profil eintragen."
+
+#: includes/admin/options/options-social.php:139
+msgid "Enter the URL to your Vimeo Profile here."
+msgstr "Hier URL zum Vimeo Profil eintragen."
+
+#: includes/admin/options/options-social.php:146
+msgid "Enter the URL to your DeviantART Profile here."
+msgstr "Hier URL zum DeviantART Profil eintragen."
+
+#: includes/admin/options/options-social.php:153
+msgid "Enter the URL to your Dribbble Profile here."
+msgstr "Hier URL zum Dribbble Profil eintragen."
+
+#: includes/admin/options/options-social.php:160
+msgid "Enter the URL to your Delicious Profile here."
+msgstr "Hier URL zum Delicious Profil eintragen."
+
+#: includes/admin/options/options-social.php:167
+msgid "Enter the URL to your Digg Profile here."
+msgstr "Hier URL zum Digg Profil eintragen."
+
+#: includes/admin/options/options-social.php:174
+msgid "Enter the URL to your Reddit Profile here."
+msgstr "Hier URL zum Reddit Profil eintragen."
+
+#: includes/admin/options/options-social.php:181
+msgid "Enter the URL to your StumpleUpon Profile here."
+msgstr "Hier URL zum StumbleUpon Profil eintragen."
+
+#: includes/admin/options/options-social.php:188
+msgid "Enter your RSS URL (e.g. Feedburner Feed) here."
+msgstr "Hier RSS URL eintragen. (z.B. Feedburner URL)"
+
+#: includes/admin/options/options-social.php:195
+msgid "Enter your Email URL (e.g. Feedburner Email Subscription) here."
+msgstr ""
+"Hier Email Abonnenten URL eintragen. (z.B. Feedburner Email Subscription URL)"
+
+#: includes/admin/options/options-social.php:202
+msgid "Enter the URL to your Friendfeed Profile here."
+msgstr "Hier URL zum Friendfeed Profil eintragen."
+
+#: includes/admin/options/options-social.php:209
+msgid "Enter your Skype Contact here."
+msgstr "Hier kannst du deine Skype URL eintragen."
+
+#: includes/plugins/theme-plugin-about.php:85
+msgid "Download vCard"
+msgstr "Download vCard"
+
+#: includes/shortcodes/plugs/tinyMCE/plugs_lang.php:13
+#: includes/shortcodes/plugs/tinyMCE/plugs_lang.php:14
+msgid "Shortcodes: Plugs"
+msgstr "Shortcodes: Plugins"
+
+#: includes/shortcodes/resume/tinyMCE/resume_lang.php:13
+#: includes/shortcodes/resume/tinyMCE/resume_lang.php:14
+msgid "Shortcodes: Resume"
+msgstr "Shortcodes: Lebenslauf"
+
+#: includes/shortcodes/skills/tinyMCE/skills_lang.php:13
+#: includes/shortcodes/skills/tinyMCE/skills_lang.php:14
+msgid "Shortcodes: Skills"
+msgstr "Shortcodes: Skills"
+
+#: includes/widgets/theme-widget-ads.php:6
+msgid "Show your 125x125 Banner Ads"
+msgstr "Anzeige deiner 125x125 Banner"
+
+#: includes/widgets/theme-widget-ads.php:52
+#: includes/widgets/theme-widget-socialmedia.php:175
+msgid "Go to WP-Admin-> Appearance-> Theme Options to configure this widget"
+msgstr ""
+"Gehe zu WP-Admin -> Design -> Theme Optionen um dieses Widget zu "
+"konfigurieren."
+
+#: includes/widgets/theme-widget-ads.php:72
+#: includes/widgets/theme-widget-socialmedia.php:200
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/widgets/theme-widget-ads.php:75
+#: includes/widgets/theme-widget-socialmedia.php:203
+msgid "Open links in a new window"
+msgstr "Öffne Hyperlinks in neuem Fenster"
+
+#: includes/widgets/theme-widget-socialmedia.php:5
+msgid "Show your Social Media Buttons"
+msgstr "SocialMedia Buttons anzeigen"
+
+#~ msgid "Enter the URL to your Gowalla Profile here."
+#~ msgstr "Hier URL zum Gowalla Profil eintragen."
+
+#~ msgid "Show your latest Tweets"
+#~ msgstr "Letzte Tweets anzeigen"
+
+#~ msgid "User"
+#~ msgstr "Account"
+
+#~ msgid "Number of tweets to show:"
+#~ msgstr "Anzahl der Tweets:"
+
+#~ msgid "Show Follow Button"
+#~ msgstr "Zeige Follow Button"
+
+#~ msgid "Frontpage Widgets"
+#~ msgstr "Startseiten Widgets"
+
+#~ msgid "Wordpress Theme by ThemeZee"
+#~ msgstr "WordPress Theme von ThemeZee"
+
+#~ msgid "Category: "
+#~ msgstr "Kategorie:"
+
+#~ msgid "Quick Links"
+#~ msgstr "Links"
+
+#~ msgid "Check Theme Updates"
+#~ msgstr "Überprüfe auf Theme Updates"
+
+#~ msgid "Theme Documentation"
+#~ msgstr "Theme Dokumentation"
+
+#~ msgid "Support Forum"
+#~ msgstr "Support Forum"
+
+#~ msgid "Front Page"
+#~ msgstr "Startseite"
+
+#~ msgid "Ads"
+#~ msgstr "Werbebanner"
+
+#~ msgid "125x125 Sidebar Banner"
+#~ msgstr "125x125 Sidebar Banner"
+
+#~ msgid "Rotate banners?"
+#~ msgstr "Banner rotieren?"
+
+#~ msgid "Check this to randomly rotate the ad spots."
+#~ msgstr "Haken setzen, um alle Banner zufällig rotieren zu lassen"
+
+#~ msgid "Ad Spot Image URL"
+#~ msgstr "Banner Bild URL"
+
+#~ msgid "Enter the image URL for this ad spot."
+#~ msgstr "Trage hier die Banner URL ein."
+
+#~ msgid "Ad Spot Destination"
+#~ msgstr "Banner Ziel"
+
+#~ msgid "Enter the URL where this ad spot points to."
+#~ msgstr "Trage hier die Zieladresse (Link) des Banners ein."
+
+#~ msgid "General Color Settings"
+#~ msgstr "Allgemeine Farbeinstellungen"
+
+#~ msgid "Sidebar Color Settings"
+#~ msgstr "Sidebar Farben"
+
+#~ msgid "Darkblue"
+#~ msgstr "Dunkelblau"
+
+#~ msgid "Darkgreen"
+#~ msgstr "Dunkelgrün"
+
+#~ msgid "Grey"
+#~ msgstr "Grau"
+
+#~ msgid "Header Color"
+#~ msgstr "Farbe des Kopfbereichs"
+
+#~ msgid "Select the background color of the header and footer section here."
+#~ msgstr "Wähle die Hintergrundfarbe des Kopf- und Fußbereichs hier."
+
+#~ msgid "Sidebar Title Color"
+#~ msgstr "Farbe von Widget Titeln"
+
+#~ msgid "Select the color of the sidebar title here."
+#~ msgstr "Wähle die Farbe von Widget Titlen hier."
+
+#~ msgid "Sidebar Link Color"
+#~ msgstr "Hyperlink Farbe von Widgets"
+
+#~ msgid "Select the color of sidebar links here."
+#~ msgstr "Wähle die Farbe von Links in Widgets hier."
+
+#~ msgid "Frontpage Slider Settings"
+#~ msgstr "Einstellungen des Startseiten Sliders"
+
+#~ msgid "Frontpage Content Settings"
+#~ msgstr "Einstellungen für Startseiten Inhalte"
+
+#~ msgid "All categories"
+#~ msgstr "Alle Kategorien"
+
+#~ msgid "Show Frontpage Slider?"
+#~ msgstr "Startseiten Slider anzeigen?"
+
+#~ msgid "Check this to activate the Frontpage Slider(custom post type)."
+#~ msgstr "Haken setzen, um den Startseiten Slider zu aktivieren."
+
+#~ msgid "Frontpage Slider Title"
+#~ msgstr "Überschrift der Startseiten Slideshow"
+
+#~ msgid ""
+#~ "Enter here your headline which is displayed above the frontpage slider."
+#~ msgstr ""
+#~ "Trage hier die Überschrift ein die über dem Startseiten Slider angezeigt "
+#~ "wird."
+
+#~ msgid "Frontpage Slider Effect"
+#~ msgstr "Slide Effekt der Startseiten Slideshow"
+
+#~ msgid "Frontpage Slider Content"
+#~ msgstr "Inhalt des Startseiten Sliders"
+
+#~ msgid "Frontpage Slider Category"
+#~ msgstr "Ausgewählte Kategorie der Slideshow"
+
+#~ msgid ""
+#~ "Select a category which posts are displayed at the frontpage slider ."
+#~ msgstr ""
+#~ "Wähle eine Kategorie, dessen Artikel im Startseiten Slider angezeigt "
+#~ "werden sollen."
+
+#~ msgid ""
+#~ "Enter the number how much posts should be displayed in the frontpage "
+#~ "slider."
+#~ msgstr ""
+#~ "Hier Anzahl der Artikel eintragen, die im Startseiten Slider angezeigt "
+#~ "werden sollen."
+
+#~ msgid "Frontpage Intro"
+#~ msgstr "Startseite Intro"
+
+#~ msgid "Enter here the Text of the Frontpage Intro."
+#~ msgstr ""
+#~ "Gebe hier den Introtext ein, der auf dem Startseiten Template gezeigt "
+#~ "wird."
+
+#~ msgid "First Category"
+#~ msgstr "Erste Kategorie"
+
+#~ msgid ""
+#~ "Select the first category which posts should be displayed at frontpage "
+#~ "template."
+#~ msgstr ""
+#~ "Wähle die erste Kategorie aus, dessen Artikel im Startseiten Template "
+#~ "angezeigt werden."
+
+#~ msgid "Second Category"
+#~ msgstr "Zweite Kategorie"
+
+#~ msgid ""
+#~ "Select the second category which posts should be displayed at frontpage "
+#~ "template."
+#~ msgstr ""
+#~ "Wähle die zweite Kategorie aus, dessen Artikel im Startseiten Template "
+#~ "angezeigt werden."
+
+#~ msgid "Third Category"
+#~ msgstr "Dritte Kategorie"
+
+#~ msgid ""
+#~ "Select the third category which posts should be displayed at frontpage "
+#~ "template."
+#~ msgstr ""
+#~ "Wähle die dritte Kategorie aus, dessen Artikel im Startseiten Template "
+#~ "angezeigt werden."
+
+#~ msgid "Fourth Category"
+#~ msgstr "Vierte Kategorie"
+
+#~ msgid ""
+#~ "Select the fourth category which posts should be displayed at frontpage "
+#~ "template."
+#~ msgstr ""
+#~ "Wähle die vierte Kategorie aus, dessen Artikel im Startseiten Template "
+#~ "angezeigt werden."
+
+#~ msgid "Fifth Category"
+#~ msgstr "Fünfte Kategorie"
+
+#~ msgid ""
+#~ "Select the fifth category which posts should be displayed at frontpage "
+#~ "template."
+#~ msgstr ""
+#~ "Wähle die fünfte Kategorie aus, dessen Artikel im Startseiten Template "
+#~ "angezeigt werden."
+
+#~ msgid "Post Settings"
+#~ msgstr "Artikel Einstellungen"
+
+#~ msgid "Show Tagline?"
+#~ msgstr "Slogan (Tagline) anzeigen?"
+
+#~ msgid ""
+#~ "Check this if you want to show your tagline(blog description) below the "
+#~ "logo"
+#~ msgstr ""
+#~ "Haken setzen wenn der Slogan (Tagline) im Kopfbereich unter dem Logo "
+#~ "angezeigt werden soll."
+
+#~ msgid "Hide Credit Link?"
+#~ msgstr "Credit Link verbergen?"
+
+#~ msgid "Check this if you want to hide the credit link to themezee.com"
+#~ msgstr "Haken setzen um den Credit Link zu ThemeZee zu verbergen."
+
+#~ msgid "Display Postmeta(above posts)"
+#~ msgstr "Postmeta Informationen anzeigen (über Artikeln)"
+
+#~ msgid "Postmeta shows date, author and comments above posts."
+#~ msgstr "Postmeta zeigt Datum, Autor und Kommentare über dem Artikel."
+
+#~ msgid "Display Postmeta on SINGLE posts"
+#~ msgstr "Zeige Postmeta auf SINGLE Blog Artikeln an."
+
+#~ msgid "Display Postmeta on INDEX posts (archive, search)"
+#~ msgstr "Zeige Postmeta auf ARCHIV Seiten (Kategorien, Suche)"
+
+#~ msgid "Display Postinfo(below posts)"
+#~ msgstr "Zeige Postinfo Informationen (unter Artikeln)"
+
+#~ msgid "Postinfo shows categories and tags below posts."
+#~ msgstr ""
+#~ "Postinfo Informationen zeigen Kategorien und Tags unter dem Artikel."
+
+#~ msgid "Display Postinfo on SINGLE posts"
+#~ msgstr "Zeige Postinfo auf SINGLE Blog Artikeln an."
+
+#~ msgid "Display Postinfo on INDEX posts (archive, search)"
+#~ msgstr "Zeige Postinfo auf ARCHIV Seiten (Kategorien, Suche)"
+
+#~ msgid "Show Author Box?"
+#~ msgstr "Autor Box anzeigen?"
+
+#~ msgid ""
+#~ "Check this if you want to show an author box (with author description, "
+#~ "avatar and website) below single posts."
+#~ msgstr ""
+#~ "Ja, zeige die Autor Box unter SINGLE Blog Artikeln an (mit Autor "
+#~ "Beschreibung, Bild und Webseite)."
+
+#~ msgid "Show SocialMedia Buttons in Header?"
+#~ msgstr "SocialMedia Buttons im Kopfbereich anzeigen?"
+
+#~ msgid "Check this to activate the SocialMedia Buttons in Header."
+#~ msgstr "Haken setzen, um Social Media Buttons im Kopbereich zu aktivieren."
+
+#~ msgid "Show popular posts with post thumbnails."
+#~ msgstr "Zeige populäre Artikel mit Thumbnail Bildern"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Anzahl der Artikel die angezeigt werden:"
+
+#~ msgid "Show Post Thumbnails?"
+#~ msgstr "Artikel Thumbnail Bilder anzeigen?"
+
+#~ msgid "Excerpt length in number of words:"
+#~ msgstr "Länge des Auszugs (Anzahl Wörter)"
+
+#~ msgid "Show Postmeta(Date, Comments)?"
+#~ msgstr "Zeige Postmeta (Datum, Kommentare)?"
+
+#~ msgid "Show recent comments with gravatar."
+#~ msgstr "Zeige letzte Kommentare mit Gravatar."
+
+#~ msgid " on"
+#~ msgstr "am"
+
+#~ msgid " said:"
+#~ msgstr "sagte"
+
+#~ msgid "Number of comments to show:"
+#~ msgstr "Anzahl der Kommentare, die angezeigt werden."
+
+#~ msgid "Show avatar of comment author?"
+#~ msgstr "Zeige Bild des Kommentators?"
+
+#~ msgid "Show post title of commented post?"
+#~ msgstr "Zeige Title des kommentierten Artikels?"
+
+#~ msgid "Show excerpt of comment?"
+#~ msgstr "Zeige Auszug des Kommentars?"
+
+#~ msgid "Excerpt length in number of characters:"
+#~ msgstr "Länge des Auszugs (Anzahl in Zeichen)"
+
+#~ msgid "Show date of comment?"
+#~ msgstr "Zeige Datum des Kommentars?"
+
+#~ msgid "Show recent posts with post thumbnails."
+#~ msgstr "Zeige letzte Artikel mit Thumbnail Bildern."
+
+#~ msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+#~ msgstr "Artikel <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "Letzte Kommentare aller Artikeln in RSS"
+
+#~ msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+#~ msgstr "Kommentare <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#~ msgid ""
+#~ "Powered by WordPress, state-of-the-art semantic personal publishing "
+#~ "platform."
+#~ msgstr "Angetrieben von WordPress"
+
+#~ msgid "WordPress.org"
+#~ msgstr "WordPress.org"
+
+#~ msgid "%1$s on %2$s"
+#~ msgstr "%1$s auf %2$s"
+
+#~ msgid "Links"
+#~ msgstr "Links"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Popular Posts"
+#~ msgstr "Beliebte Artikel"
+
+#~ msgid "Recent Comments"
+#~ msgstr "Letzte Kommentare"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Letzte Artikel"
+
+#~ msgid "Tag Cloud"
+#~ msgstr "Tag Cloud"
+
+#~ msgid "Tab 1:"
+#~ msgstr "Tab 1:"
+
+#~ msgid "Tab 2:"
+#~ msgstr "Tab 2:"
+
+#~ msgid "Tab 3:"
+#~ msgstr "Tab 3:"
+
+#~ msgid "Tab 4:"
+#~ msgstr "Tab 4:"
+
+#~ msgid "Settings for Recent/Popular Posts and Recent Comments"
+#~ msgstr ""
+#~ "Einstellungen für Letzte/Populäre Artikel und Letzte Kommentare Widgets"
+
+#~ msgid "Number of entries:"
+#~ msgstr "Anzahl der Artikel:"
+
+#~ msgid "Show Thumbnails?"
+#~ msgstr "Zeige Thumbnail Bilder?"
+
+#~ msgid "Theme by ThemeZee"
+#~ msgstr "Theme von ThemeZee"
+
+#~ msgid ""
+#~ "The <b>PRO Version</b> provide additional features to <b>customize</b> "
+#~ "and configure your Theme."
+#~ msgstr ""
+#~ "Die <b>PRO Version</b> beinhaltet zusätzliche Funktionen um dein Theme "
+#~ "<b>anzupassen</b> und zu konfigurien. "
+
+#~ msgid "Color"
+#~ msgstr "Farbe"
+
+#~ msgid "Select the color of your theme here."
+#~ msgstr "Bitte wähle hier dein bevorzugtes Farbschema"
+
+#~ msgid "Sidebar Top"
+#~ msgstr "Sidebar oben"
+
+#~ msgid "Sidebar Left"
+#~ msgstr "Sidebar links"
+
+#~ msgid "Sidebar Right"
+#~ msgstr "Sidebar rechts"
+
+#~ msgid "Sidebar Bottom"
+#~ msgstr "Sidebar unten"
+
+#~ msgid "Footer Sidebar Left"
+#~ msgstr "Footer Sidebar links"
+
+#~ msgid "Footer Sidebar Center Left"
+#~ msgstr "Footer Sidebar Mitte Links"
+
+#~ msgid "Footer Sidebar Center Right"
+#~ msgstr "Footer Sidebar Mitte Links"
+
+#~ msgid "Footer Sidebar Right"
+#~ msgstr "Footer Sidebar Rechts"
+
+#~ msgid "Sidebar"
+#~ msgstr "Sidebar"
+
+#~ msgid ""
+#~ "Go to WP-Admin > Appearance > Widgets to place your favorite Widgets here."
+#~ msgstr ""
+#~ "Gehe zu WP-Admin-> Design -> Theme Optionen um eigene Widgets zu "
+#~ "platzieren."
+
+#~ msgid "Black"
+#~ msgstr "Schwarz"
+
+#~ msgid "Content Area Color"
+#~ msgstr "Farbe des Content Bereichs"
+
+#~ msgid "Select the color of content area (links, postmeta, post tags) here."
+#~ msgstr "Wähle die Farbe des Content Bereichs (Links, Postmeta, Tags) hier."
+
+#~ msgid "Postmeta shows date, author, categories and comments above posts."
+#~ msgstr ""
+#~ "Postmeta zeigt Datum, Autor, Kategorien und Kommentare über Artikeln."
+
+#~ msgid "Postinfo shows tags below posts."
+#~ msgstr "Postinfo zeigt Tags unter Artikeln."
+
+#~ msgid "Main Navigation"
+#~ msgstr "Hauptnavigation"
+
+#~ msgid "Categories: "
+#~ msgstr "Kategorien:"
+
+#~ msgid "&raquo; Read more.."
+#~ msgstr "&raquo; Weiterlesen"
+
+#~ msgid "Sidebar About Content"
+#~ msgstr "Sidebar Inhalt"
+
+#~ msgid "Sidebar Portrait Photo"
+#~ msgstr "Portrait Bild"
+
+#~ msgid ""
+#~ "Upload your portrait photo here, which is displayed at the sidebar top."
+#~ msgstr ""
+#~ "Lade hier dein Portrait Bild hoch, welches in der Sidebar angezeigt wird."
+
+#~ msgid "Sidebar Intro Text"
+#~ msgstr "Intro Text in der Sidebar"
+
+#~ msgid ""
+#~ "Paste an intro text here, which is displayed above the portrait photo."
+#~ msgstr ""
+#~ "Trage hier einen Intro Text ein, der über deinem Porträt Bild gezeigt "
+#~ "wird."
+
+#~ msgid "Brown"
+#~ msgstr "Braun"
+
+#~ msgid "Footer Left"
+#~ msgstr "Footer Links"
+
+#~ msgid "Footer Center"
+#~ msgstr "Footer Mitte"
+
+#~ msgid "Footer Right"
+#~ msgstr "Footer Rechts"
+
+#~ msgid "Title Color"
+#~ msgstr "Farbe des Titels"
+
+#~ msgid "Select the color of titles here."
+#~ msgstr "Wähle hier die Farbe von Überschriften."
+
+#~ msgid "Frontpage Settings"
+#~ msgstr "Startseiten Einstellungen"
+
+#~ msgid "Show Featured Post Slider?"
+#~ msgstr "Featured Artikel Slider anzeigen?"
+
+#~ msgid ""
+#~ "Check this to display the Featured Post Slider at frontpage template."
+#~ msgstr ""
+#~ "Haken setzen wenn der Featured Artikel Slider im Startseiten Template "
+#~ "angezeigt werden soll."
+
+#~ msgid "Top Navigation"
+#~ msgstr "Top Navigation (oben)"
+
+#~ msgid "Footer"
+#~ msgstr "Fußbereich (Footer)"
+
+#~ msgid "Header Banner"
+#~ msgstr "Kopfbereich Bild"
+
+#~ msgid "Show Header Banner Ad?"
+#~ msgstr "Banner im Kopfbereich anzeigen?"
+
+#~ msgid "Check this to show the banner ad in the theme header."
+#~ msgstr ""
+#~ "Haken setzen wenn der Banner im Kopfbereich (Header) angezeigt werden "
+#~ "soll."
+
+#~ msgid "468x60 Adbanner Image URL"
+#~ msgstr "468x60 Banner Bild URL"
+
+#~ msgid "Enter the image URL for the banner ad."
+#~ msgstr "Trage hier die Bild URL des Banners ein."
+
+#~ msgid "468x60 Adbanner Destination URL"
+#~ msgstr "468x60 Banner Ziel URL"
+
+#~ msgid "Enter the URL where the banner ad points to."
+#~ msgstr "Trage hier die Zieladresse (Link) des Banners ein."
+
+#~ msgid "Navigation Color"
+#~ msgstr "Farbe der Navigation"
+
+#~ msgid "Select the color of navigation here."
+#~ msgstr "Wähle hier die Farbe der Navigation."
+
+#~ msgid "Sidebar Title Scheme"
+#~ msgstr "Sidebar Titelschema"
+
+#~ msgid "Light Title"
+#~ msgstr "Heller Titel"
+
+#~ msgid "Dark Title"
+#~ msgstr "Dunkler Titel"
+
+#~ msgid "Sidebar Title Font"
+#~ msgstr "Sidebar Titel Schriftart"
+
+#~ msgid "Select the sidebar title font here."
+#~ msgstr "Wähle hier die Schriftart von Widget Titeln."
+
+#~ msgid "Postmeta shows date, author and category above posts."
+#~ msgstr "Postmeta zeigt Datum, Autor und Kategorie über Artikeln."
+
+#~ msgid "Display Postmeta on POST SLIDER posts"
+#~ msgstr "Zeige Postmeta in Featured Slider Artikeln."
+
+#~ msgid "Postinfo shows comments and tags below posts."
+#~ msgstr "Postinfo zeigt Kommentare und Tags unter Artikeln."
+
+#~ msgid "Display Postinfo on POST SLIDER posts"
+#~ msgstr "Zeige Postinfo in Featured Slider Artikeln."
+
+#~ msgid "Posted on"
+#~ msgstr "geschrieben am"
+
+#~ msgid "by"
+#~ msgstr "von"
+
+#~ msgid "Posted in %1$s"
+#~ msgstr "Geschrieben in %1$s"
+
+#~ msgid "Author: "
+#~ msgstr "Autor:"
+
+#~ msgid "Postmeta shows date and author above posts."
+#~ msgstr "Postmeta zeigt Datum und Autor über Artikeln."
+
+#~ msgid "Postinfo shows categories and comments below posts."
+#~ msgstr "Postinfo zeigt Kategorien und Kommentare unter Artikeln."
+
+#~ msgid "Frontpage Slider"
+#~ msgstr "Startseiten Slider"
+
+#~ msgid "Frontpage Blog Posts"
+#~ msgstr "Artikel auf der Startseite"
+
+#~ msgid "Show Frontpage Blog Posts?"
+#~ msgstr "Zeige letzte Artikel auf der Startseite?"
+
+#~ msgid "Check this to show the latest blog post on the frontpage template"
+#~ msgstr "Ja, zeige letzte Artikel auf dem Startseiten Template an."
+
+#~ msgid "Header Title of the latest blog posts"
+#~ msgstr "Überschrift über den letzten Artikeln"
+
+#~ msgid "Enter here the Title which is displayed above the latest blog posts."
+#~ msgstr ""
+#~ "Hier Überschrift eintragen die über den letzten Artikeln angezeigt wird."
+
+#~ msgid "Blog Posts Content"
+#~ msgstr "Artikel Inhalte"
+
+#~ msgid ""
+#~ "Select which content should be displayed at the frontpage blog posts."
+#~ msgstr "Wähle aus welche Artikel auf der Startseite platziert werden."
+
+#~ msgid "Display Thumbnails"
+#~ msgstr "Zeige Thumbnail Bilder"
+
+#~ msgid "Display Postmeta"
+#~ msgstr "Zeige Postmeta Informationen an"
+
+#~ msgid "Display Excerpt"
+#~ msgstr "Zeige Textauszug an"
+
+#~ msgid "Dont use rounded corners."
+#~ msgstr "Nutze keine runden Ecken"
+
+#~ msgid "Enter here the Title which is displayed above the Frontpage Slider."
+#~ msgstr ""
+#~ "Trage hier die Überschrift ein die über dem Startseiten Slider angezeigt "
+#~ "wird."
+
+#~ msgid "Display Postinfo"
+#~ msgstr "Zeige Postinfo Informationen an"
+
+#~ msgid "Postmeta shows date and category above post content."
+#~ msgstr "Postmeta zeigt Datum und Kategorien über Artikeln."
+
+#~ msgid "Postinfo shows author, comments and tags below posts."
+#~ msgstr "Postinfo zeigt Autor, Kommentare und Tags  unter Artikeln."
+
+#~ msgid " | Tags: "
+#~ msgstr " | Tags:"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Suchergebnisse für: %s"
+
+#~ msgid "Black & Grey"
+#~ msgstr "Grau & Schwarz"
+
+#~ msgid "Green & Blue"
+#~ msgstr "Grün & Blau"
+
+#~ msgid "Green & Orange"
+#~ msgstr "Grün & Orange"
+
+#~ msgid "Green & Purple"
+#~ msgstr "Grün & Lila"
+
+#~ msgid "Orange & Blue"
+#~ msgstr "Orange & Blaue"
+
+#~ msgid "Orange & Red"
+#~ msgstr "Orange & Rot"
+
+#~ msgid "Purple & Blue"
+#~ msgstr "Lila & Blau"
+
+#~ msgid "Purple & Green"
+#~ msgstr "Lila & Grün"
+
+#~ msgid "Red & Orange"
+#~ msgstr "Rot & Orange"
+
+#~ msgid "First Color"
+#~ msgstr "Erste Farbe"
+
+#~ msgid "Select the first color here."
+#~ msgstr "Wähle die erste Farbe hier aus."
+
+#~ msgid "Second Color"
+#~ msgstr "Zweite Farbe"
+
+#~ msgid "Select the second color here."
+#~ msgstr "Wähle die zweite Farbe hier."
+
+#~ msgid "Postmeta shows author, date and comments above posts."
+#~ msgstr "Postmeta zeigt Autor, Datum und Kommentare über Artikeln."
+
+#~ msgid "Footer Navigation"
+#~ msgstr "Navigation im Fußbereich (Footer)"
+
+#~ msgid "Yellow"
+#~ msgstr "Gelb"
+
+#~ msgid "Color Layout"
+#~ msgstr "Farbschema"
+
+#~ msgid "Light Layout "
+#~ msgstr "Helles Layout"
+
+#~ msgid "Dark Layout"
+#~ msgstr "Dunkles Layout"
+
+#~ msgid "Sidebar Widget Color"
+#~ msgstr "Farbe von Widgets"
+
+#~ msgid "Select the color of sidebar widgets here."
+#~ msgstr "Wähle hier die Textfarbe von Sidebar Widgets aus."
+
+#~ msgid "Frontpage Intro Button Text"
+#~ msgstr "Button Text vom Intro der Startseite"
+
+#~ msgid ""
+#~ "Enter here the Text of the Frontpage Intro Button. Leave blank to hide to "
+#~ "hide the button."
+#~ msgstr ""
+#~ "Gebe hier den Text des Buttons ein, der im Intro auf der Startseite "
+#~ "gezeigt wird. Lasse dieses Feld leer um den Button zu verbergen."
+
+#~ msgid "Frontpage Intro Button Destination"
+#~ msgstr "Ziel URL des Intro Buttons der Startseite"
+
+#~ msgid ""
+#~ "Enter here the URL to which the Frontpage Intro Button should point to."
+#~ msgstr ""
+#~ "Trage hier die Zieladresse (URL) des Intro Buttons der Startseite ein."
+
+#~ msgid "Wordpress BizzCard Theme"
+#~ msgstr "WordPress BizzCard Theme"
+
+#~ msgid "Postmeta shows date, category and comments above posts."
+#~ msgstr "Postmeta zeigt Datum, Kategorie und Kommentare über Artikeln."
+
+#~ msgid "Postinfo show tags below posts."
+#~ msgstr "Postinfo zeigt Tags unter Artikeln."
+
+#~ msgid ""
+#~ "It is completely optional, but if you like the Theme I would appreciate "
+#~ "it if you keep the credit link at the bottom."
+#~ msgstr ""
+#~ "Falls dir dieses Theme gefällt, würde ich mich freuen wenn du den Link zu "
+#~ "ThemeZee im Footer beibehältst."
+
+#~ msgid "125x125 Ad Spots"
+#~ msgstr "125x125 Banner Spots"
+
+#~ msgid ""
+#~ "Select a custom color here (You have to select the 'custom color' option "
+#~ "above)."
+#~ msgstr ""
+#~ "Konfiguriere hier deine bevorzugte Farbe. (Oben muss  'custom color'  "
+#~ "auswählt sein)"
+
+#~ msgid "Insert your own custom css code into the head of the theme."
+#~ msgstr ""
+#~ "Trage hier deinen eigenen CSS Code in den Kopfbereich des Themes ein."
+
+#~ msgid "Show latest posts from category \"featured\""
+#~ msgstr "Letzte Artikel aus der Kategorie \"featured\" anzeigen"
+
+#~ msgid "Show latest posts from custom category(enter ID below)"
+#~ msgstr ""
+#~ "Letzte Artikel einer bestimmten Kategorie anzeigen (ID unten eingeben)"
+
+#~ msgid "category ID"
+#~ msgstr "Kategorie ID"
+
+#~ msgid ""
+#~ "Please enter the category ID you'd like to include in the slideshow.(You "
+#~ "have to tick the last option above)"
+#~ msgstr ""
+#~ "Bitte trage hier die Kategorie ID ein, welche im Slider angezeigt werden "
+#~ "soll. (Oben die letzte Option auswählen)"
+
+#~ msgid "Activate SocialMedia Buttons?"
+#~ msgstr "SocialMedia Buttons aktivieren?"
+
+#~ msgid ""
+#~ "Go to WP-Admin-> Appearance-> \"Theme\" Options to activate and configure "
+#~ "this widget"
+#~ msgstr ""
+#~ "Gehe zu WP-Admin-> Design \"Theme\" Optionen um dieses Widget zu "
+#~ "aktivieren und konfigurieren."
+
+#~ msgid "Please paste your Google Analytics(or other) tracking code here."
+#~ msgstr "Hier Google Analytics Code (oder anderen) Tracking Code eintragen."
+
+#~ msgid "Archive for the year"
+#~ msgstr "Archiv für das Jahr"
+
+#~ msgid "'s Options has been updated at"
+#~ msgstr "'s Optionen wurden gespeichert um"
+
+#~ msgid "o'clock"
+#~ msgstr "Uhr"
+
+#~ msgid "125x125 Ad Spots - can be activated as widget into sidebar"
+#~ msgstr "125x125 Banner - müssen als Widget in der Sidebar aktiviert werden"
+
+#~ msgid "Leave a Reply"
+#~ msgstr "Kommentar hinterlassen"
+
+#~ msgid "Leave a Reply to %s"
+#~ msgstr "Antworten auf %s"
+
+#~ msgid "You must be logged in to post a comment."
+#~ msgstr "Du musst eingeloggt sein, um einen Kommentar zu hinterlassen."
+
+#~ msgid "(required)"
+#~ msgstr "(erforderlich)"
+
+#~ msgid "E-mail (will not be published)"
+#~ msgstr "Email (wird nicht veröffentlicht)"
+
+#~ msgid "Submit"
+#~ msgstr "Abschicken"
+
+#~ msgid ""
+#~ "Build your tabbed area by placing widgets here. IMPORTANT: DO NOT PLACE "
+#~ "THE THEME TABBED WIDGET IN THIS AREA!! Place the THEME TABBED widget in "
+#~ "another widget area."
+#~ msgstr ""
+#~ "Gestalte deine Tabs, indem du hier Widgets platzierst. Jedes Widget "
+#~ "ergibt einen Tab. WICHTIG: PLATZIERE HIER NICHT DAS THEME TABBED WIDGET! "
+#~ "Das Theme Tabbed Widget gehört in einen anderen Widget Bereich."
+
+#~ msgid "Show built-in Tab Widget"
+#~ msgstr "Dein Widget zur Anzeige von Tabs"
+
+#~ msgid "Latest Tweets"
+#~ msgstr "Letzte Tweets"
+
+#~ msgid "(at most 15)"
+#~ msgstr "(höchstens 15)"
+
+#~ msgid "Show link to Twitter"
+#~ msgstr "Link zu Twitter zeigen?"
+
+#~ msgid "No replies"
+#~ msgstr "Keine Kommentare"
+
+#~ msgid "One reply"
+#~ msgstr "Ein Kommentar"
+
+#~ msgid "% replies"
+#~ msgstr "% Kommentare"
